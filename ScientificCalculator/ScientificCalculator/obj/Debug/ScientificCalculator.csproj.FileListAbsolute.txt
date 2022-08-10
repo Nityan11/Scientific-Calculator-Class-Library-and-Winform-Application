@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\Calculator.MathLibrary.dll
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\Calculator.MathLibrary.pdb
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Calculator.resources
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+C:\Users\Administrator\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\Config\OperationsConfiguration.json
