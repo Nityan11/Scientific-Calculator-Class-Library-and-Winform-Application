@@ -1,0 +1,60 @@
+{
+  "ADD": {
+    "symbol": "+",
+    "precedence": 0
+  },
+  "SUBTRACT": {
+    "symbol": "-",
+    "precedence": 0
+  },
+  "DIVIDE": {
+    "symbol": "/",
+    "precedence": 1
+  },
+  "MULTIPLY": {
+    "symbol": "*",
+    "precedence": 1
+  },
+  "POWER": {
+    "symbol": "^",
+    "precedence": 2
+  },
+  "PERCENT": {
+    "symbol": "PERCENT",
+    "precedence": 3
+  },
+  "SINE": {
+    "symbol": "sin",
+    "precedence": 3
+  },
+  "COSINE": {
+    "symbol": "cos",
+    "precedence": 3
+  },
+  "TAN": {
+    "symbol": "tan",
+    "precedence": 3
+  },
+  "NEGATE": {
+    "symbol": "NEG",
+    "precedence": 3
+  },
+  "SQUAREROOT": {
+    "symbol": "SQRT",
+    "precedence": 3
+  },
+  "RECIPROCAL": {
+    "symbol": "REC",
+    "precedence": 3
+  },
+  "LOG_10": {
+    "symbol": "log",
+    "precedence": 3
+  },
+  "LOG_E": {
+    "symbol": "ln",
+    "precedence": 3
+  }
+
+
+}
